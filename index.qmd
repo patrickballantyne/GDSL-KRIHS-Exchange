@@ -1,0 +1,38 @@
+---
+title: "Supporting Post Pandemic Recovery and Resilience through New Forms of Data"
+---
+
+## Background
+
+This website showcases the outcomes of a research grant entitled "*Supporting Post Pandemic Recovery and Resilience through New Forms of Data*". The grant was led
+by two world leading research groups: the Geospatial Analytics & Monitoring Centre (GAMC), Korea Research Institute for Human Settlements (KRIHS), South Korea and the Geographic Data Science Lab, University of Liverpool, UK (GDSL). The overarching aim of the activities was to extend interactions beyond our core hubs by developing a wider network of participants in both the UK and South Korea. 
+
+As part of the grant, two specific sets of activities have taken place:
+
+1. **UK Workshop, November 2022**: Supporting Post Pandemic Recovery and Resilience through New Forms of Data. 
+2. **International Conference, June 2023**: Knowledge Expansion and Exchange.
+
+![](photo/lpool.jpg)
+
+## Meet the Team
+
+The team working on delivering on this grant, who have specifically engaged with preparing this proposal and were committed to fulfilling its aims and objectives are:
+
+### Project leads
+
+* [Prof. Alex Singleton](https://www.alex-singleton.com//) (PI) [GDSL]
+* [Prof. Eunsun Im](https://www.krihs.re.kr/organization/view.es?mid=a20505010200&org_cd=1000005&seq=3824) (Co-I) [GAMC/KRIHS]
+
+### Other members
+
+* [Prof. Francisco Rowe](https://www.franciscorowe.com/) (Co-I) [GDSL]
+* [Prof. Dani Arribas-Bel](https://darribas.org/) (Co-I) [GDSL]
+* [Dr. Mark Green](https://www.liverpool.ac.uk/environmental-sciences/staff/mark-green/) (Co-I) [GDSL]
+
+
+### Website 
+
+This website was built using Quarto and R. For more information contact [Dr. Patrick Ballantyne](https://patrickballantyne.github.io/).
+
+
+
