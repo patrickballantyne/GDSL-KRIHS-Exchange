@@ -2,3 +2,6 @@
   quarto-pub:
     - id: 9ce60fc7-c899-4080-8bf5-a6e9cb094532
       url: 'https://quartopub.com/sites/pball24/gdsl-krihs-exchange'
+  netlify:
+    - id: d71fd9be-3eed-42c6-9d74-cbaf19dabf1e
+      url: 'https://hilarious-crumble-c808db.netlify.app'
