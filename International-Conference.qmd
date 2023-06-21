@@ -21,6 +21,14 @@ From the 5th - 13th June, 10 members of the GDSL comprising both staff and PhD s
 -   [Ruth Neville](https://twitter.com/ruthneville20)
 -   [Cillian Berragan](https://twitter.com/cjberragan)
 
+## Conference Programme
+
+Our hosts at KRIHS kindly put together a full programme detailing the activities that occured during the two days of research presentations. This programme contains a detailed list of speakers (and presentations).
+
+The full programme can be viewed [here](KRIHS-GDSL-Programme.pdf)
+
+![](prog2.jpg)
+
 ## Day 1 - Seoul City
 
 On the first day of the visit, members from KRIHS treated the (very jet-lagged) team of GDSL researchers to an exciting tour of the beautiful city of Seoul. Yohan, Jae Soen, Youngmin and Stella were excellent hosts throughout the day. We first visited the [Korean Territorial Development Museum](), and were given a guided tour comprising an overview of the urban history of Korea, and insights into the Smart City programmes that have been rolled out across the country over the past century.
@@ -45,7 +53,7 @@ Following an introduction from KRIHS director Sangkeon Lee, we were treated to a
 
 The research exchange then commenced, with talks from GDSL members Francisco, Dani, Carmen, Cillian and Dan, as well as a series of talks from KRIHS members, and other invited talks with speakers from Inha University and the Korean National University of Transportation. The day ended with a traditional Korean dinner and GDSL members returned to Seoul.
 
-Slides for these talks can be found [in this folder](slides/)
+Slides for these talks can be found [here](https://github.com/patrickballantyne/GDSL-KRIHS-Exchange/tree/main/slides). 
 
 ![](photo2/a15.jpg) ![](photo2/a16.jpg) ![](photo2/a17.jpg) ![](photo2/a18.jpg) ![](photo2/a19.jpg)
 
@@ -61,7 +69,7 @@ The rest of the day saw lightning talks from GDSL members Mark, Patrick, Ruth an
 
 ![](photo2/a25.jpg) ![](photo2/a26.jpg) ![](photo2/a27.jpg) ![](photo2/a28.jpg) ![](photo2/a29.jpg)
 
-Slides for these talks can be found [in this folder](slides/)
+Slides for these talks can be found [here](https://github.com/patrickballantyne/GDSL-KRIHS-Exchange/tree/main/slides). 
 
 ## Day 6 - Busan, Eco Delta Smart City
 
